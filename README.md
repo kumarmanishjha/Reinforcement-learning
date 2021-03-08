@@ -6,4 +6,4 @@ Implementation:
 
 2. Frozen lake(https://gym.openai.com/envs/FrozenLake-v0/) solution using Q-learning
 
-3. 
+3. Open AI taxi v2 (https://gym.openai.com/envs/Taxi-v2/) solution using Sarsa on-policy control
